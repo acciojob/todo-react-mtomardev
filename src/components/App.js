@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
+        <h1>To-Do List</h1>
     </div>
   )
 }
